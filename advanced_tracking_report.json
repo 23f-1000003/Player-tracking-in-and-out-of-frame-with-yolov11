@@ -1,0 +1,2698 @@
+{
+  "summary": {
+    "total_exit_events": 21,
+    "total_entry_events": 95,
+    "unique_players_tracked": 94,
+    "total_state_changes": 116
+  },
+  "exit_events": [
+    {
+      "player_id": 12,
+      "frame": 1,
+      "timestamp": 0.04,
+      "event": "exit_frame",
+      "confidence": 0.8877130746841431,
+      "bbox": [
+        1252.507568359375,
+        147.10806274414062,
+        1280.0,
+        211.38375854492188
+      ]
+    },
+    {
+      "player_id": 11,
+      "frame": 11,
+      "timestamp": 0.44,
+      "event": "exit_frame",
+      "confidence": 0.8731414079666138,
+      "bbox": [
+        1240.17919921875,
+        261.7178649902344,
+        1280.0,
+        345.9054260253906
+      ]
+    },
+    {
+      "player_id": 5,
+      "frame": 76,
+      "timestamp": 3.04,
+      "event": "exit_frame",
+      "confidence": 0.9230254888534546,
+      "bbox": [
+        0.0,
+        294.9042663574219,
+        37.38082504272461,
+        381.9172058105469
+      ]
+    },
+    {
+      "player_id": 9,
+      "frame": 104,
+      "timestamp": 4.16,
+      "event": "exit_frame",
+      "confidence": 0.9009554386138916,
+      "bbox": [
+        0.0,
+        184.3399200439453,
+        34.76239013671875,
+        253.2443389892578
+      ]
+    },
+    {
+      "player_id": 4,
+      "frame": 104,
+      "timestamp": 4.16,
+      "event": "exit_frame",
+      "confidence": 0.9266897439956665,
+      "bbox": [
+        0.0,
+        381.1447448730469,
+        34.6787223815918,
+        480.6158142089844
+      ]
+    },
+    {
+      "player_id": 2,
+      "frame": 109,
+      "timestamp": 4.36,
+      "event": "exit_frame",
+      "confidence": 0.9060078263282776,
+      "bbox": [
+        0.0,
+        192.56143188476562,
+        25.588041305541992,
+        275.0335998535156
+      ]
+    },
+    {
+      "player_id": 17,
+      "frame": 115,
+      "timestamp": 4.6,
+      "event": "exit_frame",
+      "confidence": 0.9381296634674072,
+      "bbox": [
+        0.0,
+        467.2396240234375,
+        39.229774475097656,
+        584.623291015625
+      ]
+    },
+    {
+      "player_id": 67,
+      "frame": 126,
+      "timestamp": 5.04,
+      "event": "exit_frame",
+      "confidence": 0.899599015712738,
+      "bbox": [
+        0.0,
+        259.7784423828125,
+        30.97365951538086,
+        349.90521240234375
+      ]
+    },
+    {
+      "player_id": 14,
+      "frame": 128,
+      "timestamp": 5.12,
+      "event": "exit_frame",
+      "confidence": 0.8168570399284363,
+      "bbox": [
+        0.0,
+        117.4144287109375,
+        31.442251205444336,
+        178.44973754882812
+      ]
+    },
+    {
+      "player_id": 150,
+      "frame": 129,
+      "timestamp": 5.16,
+      "event": "exit_frame",
+      "confidence": 0.8587571978569031,
+      "bbox": [
+        1246.1240234375,
+        506.2763671875,
+        1278.84814453125,
+        597.7703857421875
+      ]
+    },
+    {
+      "player_id": 150,
+      "frame": 144,
+      "timestamp": 5.76,
+      "event": "exit_frame",
+      "confidence": 0.8478615880012512,
+      "bbox": [
+        1246.6370849609375,
+        495.61566162109375,
+        1278.9493408203125,
+        605.0265502929688
+      ]
+    },
+    {
+      "player_id": 150,
+      "frame": 149,
+      "timestamp": 5.96,
+      "event": "exit_frame",
+      "confidence": 0.8613813519477844,
+      "bbox": [
+        1240.29736328125,
+        498.369384765625,
+        1280.0,
+        596.2913818359375
+      ]
+    },
+    {
+      "player_id": 7,
+      "frame": 174,
+      "timestamp": 6.96,
+      "event": "exit_frame",
+      "confidence": 0.8981112837791443,
+      "bbox": [
+        0.0,
+        139.73379516601562,
+        39.036983489990234,
+        202.60232543945312
+      ]
+    },
+    {
+      "player_id": 34,
+      "frame": 191,
+      "timestamp": 7.64,
+      "event": "exit_frame",
+      "confidence": 0.8878705501556396,
+      "bbox": [
+        0.0,
+        238.03158569335938,
+        35.75788116455078,
+        315.9258117675781
+      ]
+    },
+    {
+      "player_id": 107,
+      "frame": 209,
+      "timestamp": 8.36,
+      "event": "exit_frame",
+      "confidence": 0.898577094078064,
+      "bbox": [
+        0.0,
+        245.58541870117188,
+        30.938514709472656,
+        323.6750793457031
+      ]
+    },
+    {
+      "player_id": 65,
+      "frame": 211,
+      "timestamp": 8.44,
+      "event": "exit_frame",
+      "confidence": 0.9003318548202515,
+      "bbox": [
+        0.0,
+        207.29275512695312,
+        36.0831184387207,
+        284.9317932128906
+      ]
+    },
+    {
+      "player_id": 48,
+      "frame": 211,
+      "timestamp": 8.44,
+      "event": "exit_frame",
+      "confidence": 0.9055192470550537,
+      "bbox": [
+        0.0,
+        372.24658203125,
+        38.31693649291992,
+        471.68701171875
+      ]
+    },
+    {
+      "player_id": 123,
+      "frame": 218,
+      "timestamp": 8.72,
+      "event": "exit_frame",
+      "confidence": 0.8895589113235474,
+      "bbox": [
+        0.0,
+        266.277099609375,
+        37.68320083618164,
+        349.7154541015625
+      ]
+    },
+    {
+      "player_id": 6,
+      "frame": 228,
+      "timestamp": 9.12,
+      "event": "exit_frame",
+      "confidence": 0.8982140421867371,
+      "bbox": [
+        0.0,
+        278.207763671875,
+        32.40317153930664,
+        360.1793212890625
+      ]
+    },
+    {
+      "player_id": 368,
+      "frame": 329,
+      "timestamp": 13.16,
+      "event": "exit_frame",
+      "confidence": 0.9053808450698853,
+      "bbox": [
+        0.0,
+        275.4696044921875,
+        31.625080108642578,
+        376.7574462890625
+      ]
+    },
+    {
+      "player_id": 412,
+      "frame": 356,
+      "timestamp": 14.24,
+      "event": "exit_frame",
+      "confidence": 0.730141818523407,
+      "bbox": [
+        0.0,
+        219.191650390625,
+        36.85528564453125,
+        302.16668701171875
+      ]
+    }
+  ],
+  "entry_events": [
+    {
+      "player_id": 1,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9246804118156433,
+      "bbox": [
+        794.9259033203125,
+        470.4476318359375,
+        864.0526123046875,
+        566.8004150390625
+      ]
+    },
+    {
+      "player_id": 2,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9229927062988281,
+      "bbox": [
+        431.6517639160156,
+        160.57986450195312,
+        467.4638366699219,
+        227.96658325195312
+      ]
+    },
+    {
+      "player_id": 3,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9186922311782837,
+      "bbox": [
+        839.890380859375,
+        187.48846435546875,
+        873.201904296875,
+        247.61331176757812
+      ]
+    },
+    {
+      "player_id": 4,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9175800681114197,
+      "bbox": [
+        392.7046813964844,
+        422.96148681640625,
+        457.4430847167969,
+        500.86444091796875
+      ]
+    },
+    {
+      "player_id": 5,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9134361743927002,
+      "bbox": [
+        140.6558380126953,
+        266.7361755371094,
+        190.3915252685547,
+        347.9650573730469
+      ]
+    },
+    {
+      "player_id": 6,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9115022420883179,
+      "bbox": [
+        1086.22900390625,
+        345.5645446777344,
+        1137.58056640625,
+        443.3581237792969
+      ]
+    },
+    {
+      "player_id": 7,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9087742567062378,
+      "bbox": [
+        704.7495727539062,
+        82.84486389160156,
+        733.9284057617188,
+        128.9855499267578
+      ]
+    },
+    {
+      "player_id": 8,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9080349206924438,
+      "bbox": [
+        887.370361328125,
+        124.00921630859375,
+        913.564697265625,
+        177.098876953125
+      ]
+    },
+    {
+      "player_id": 9,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9076900482177734,
+      "bbox": [
+        370.66583251953125,
+        154.99893188476562,
+        405.42437744140625,
+        217.0496826171875
+      ]
+    },
+    {
+      "player_id": 10,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.9002048969268799,
+      "bbox": [
+        721.59619140625,
+        195.14080810546875,
+        757.099853515625,
+        262.98541259765625
+      ]
+    },
+    {
+      "player_id": 11,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8916471004486084,
+      "bbox": [
+        1134.9697265625,
+        253.44076538085938,
+        1181.8251953125,
+        338.3527526855469
+      ]
+    },
+    {
+      "player_id": 12,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8910133242607117,
+      "bbox": [
+        1239.40966796875,
+        146.52151489257812,
+        1269.3642578125,
+        210.81344604492188
+      ]
+    },
+    {
+      "player_id": 13,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8738321661949158,
+      "bbox": [
+        532.513427734375,
+        428.616943359375,
+        581.326904296875,
+        520.84521484375
+      ]
+    },
+    {
+      "player_id": 14,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8737009167671204,
+      "bbox": [
+        559.3251953125,
+        94.80950927734375,
+        582.2774658203125,
+        145.3394775390625
+      ]
+    },
+    {
+      "player_id": 15,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8592705130577087,
+      "bbox": [
+        568.5599365234375,
+        51.547149658203125,
+        597.1456298828125,
+        90.5179443359375
+      ]
+    },
+    {
+      "player_id": 16,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8431307673454285,
+      "bbox": [
+        638.8621826171875,
+        221.0418701171875,
+        662.4508056640625,
+        296.62249755859375
+      ]
+    },
+    {
+      "player_id": 17,
+      "frame": 0,
+      "timestamp": 0.0,
+      "event": "initial_appearance",
+      "confidence": 0.8389577865600586,
+      "bbox": [
+        494.72015380859375,
+        430.558349609375,
+        540.6077270507812,
+        519.3013305664062
+      ]
+    },
+    {
+      "player_id": 24,
+      "frame": 10,
+      "timestamp": 0.4,
+      "event": "initial_appearance",
+      "confidence": 0.7438705563545227,
+      "bbox": [
+        754.1642456054688,
+        225.28878784179688,
+        794.3667602539062,
+        298.0334777832031
+      ]
+    },
+    {
+      "player_id": 30,
+      "frame": 18,
+      "timestamp": 0.72,
+      "event": "initial_appearance",
+      "confidence": 0.7498092651367188,
+      "bbox": [
+        915.8958740234375,
+        439.09454345703125,
+        953.9188232421875,
+        528.093017578125
+      ]
+    },
+    {
+      "player_id": 34,
+      "frame": 22,
+      "timestamp": 0.88,
+      "event": "initial_appearance",
+      "confidence": 0.6972589492797852,
+      "bbox": [
+        882.8324584960938,
+        232.1259765625,
+        919.2759399414062,
+        306.0703125
+      ]
+    },
+    {
+      "player_id": 35,
+      "frame": 23,
+      "timestamp": 0.92,
+      "event": "initial_appearance",
+      "confidence": 0.5032052993774414,
+      "bbox": [
+        928.1630859375,
+        204.65585327148438,
+        960.589599609375,
+        277.26263427734375
+      ]
+    },
+    {
+      "player_id": 42,
+      "frame": 30,
+      "timestamp": 1.2,
+      "event": "initial_appearance",
+      "confidence": 0.650516927242279,
+      "bbox": [
+        644.0533447265625,
+        484.8390808105469,
+        659.3609619140625,
+        500.6348571777344
+      ]
+    },
+    {
+      "player_id": 48,
+      "frame": 35,
+      "timestamp": 1.4,
+      "event": "initial_appearance",
+      "confidence": 0.7996665835380554,
+      "bbox": [
+        579.0231323242188,
+        403.69415283203125,
+        610.0767211914062,
+        490.25299072265625
+      ]
+    },
+    {
+      "player_id": 49,
+      "frame": 37,
+      "timestamp": 1.48,
+      "event": "initial_appearance",
+      "confidence": 0.8682116270065308,
+      "bbox": [
+        1068.366455078125,
+        388.9883117675781,
+        1099.86328125,
+        448.7635192871094
+      ]
+    },
+    {
+      "player_id": 52,
+      "frame": 39,
+      "timestamp": 1.56,
+      "event": "initial_appearance",
+      "confidence": 0.8444881439208984,
+      "bbox": [
+        734.9720458984375,
+        447.3765869140625,
+        777.6195068359375,
+        509.0703125
+      ]
+    },
+    {
+      "player_id": 50,
+      "frame": 43,
+      "timestamp": 1.72,
+      "event": "reenter_frame",
+      "confidence": 0.9014680981636047,
+      "bbox": [
+        1233.26513671875,
+        282.972900390625,
+        1276.935302734375,
+        369.7078857421875
+      ]
+    },
+    {
+      "player_id": 59,
+      "frame": 45,
+      "timestamp": 1.8,
+      "event": "initial_appearance",
+      "confidence": 0.856515109539032,
+      "bbox": [
+        1043.8240966796875,
+        368.7640075683594,
+        1077.2662353515625,
+        444.2933044433594
+      ]
+    },
+    {
+      "player_id": 62,
+      "frame": 47,
+      "timestamp": 1.88,
+      "event": "initial_appearance",
+      "confidence": 0.6766362190246582,
+      "bbox": [
+        449.7525634765625,
+        433.06707763671875,
+        475.9281005859375,
+        498.85235595703125
+      ]
+    },
+    {
+      "player_id": 65,
+      "frame": 49,
+      "timestamp": 1.96,
+      "event": "initial_appearance",
+      "confidence": 0.8903507590293884,
+      "bbox": [
+        657.3958740234375,
+        444.7428283691406,
+        689.0946044921875,
+        495.1252746582031
+      ]
+    },
+    {
+      "player_id": 67,
+      "frame": 52,
+      "timestamp": 2.08,
+      "event": "initial_appearance",
+      "confidence": 0.6001590490341187,
+      "bbox": [
+        785.9725341796875,
+        224.02764892578125,
+        819.4862060546875,
+        294.118408203125
+      ]
+    },
+    {
+      "player_id": 74,
+      "frame": 65,
+      "timestamp": 2.6,
+      "event": "initial_appearance",
+      "confidence": 0.731561005115509,
+      "bbox": [
+        831.5292358398438,
+        251.1453857421875,
+        858.0038452148438,
+        325.022705078125
+      ]
+    },
+    {
+      "player_id": 77,
+      "frame": 66,
+      "timestamp": 2.64,
+      "event": "initial_appearance",
+      "confidence": 0.7059917449951172,
+      "bbox": [
+        362.5927734375,
+        453.99005126953125,
+        390.30975341796875,
+        512.8213500976562
+      ]
+    },
+    {
+      "player_id": 92,
+      "frame": 80,
+      "timestamp": 3.2,
+      "event": "reenter_frame",
+      "confidence": 0.9026467800140381,
+      "bbox": [
+        1233.0303955078125,
+        309.7463684082031,
+        1270.6339111328125,
+        385.4861755371094
+      ]
+    },
+    {
+      "player_id": 102,
+      "frame": 89,
+      "timestamp": 3.56,
+      "event": "initial_appearance",
+      "confidence": 0.8713886737823486,
+      "bbox": [
+        966.4517822265625,
+        376.17425537109375,
+        992.5130615234375,
+        429.779296875
+      ]
+    },
+    {
+      "player_id": 107,
+      "frame": 92,
+      "timestamp": 3.68,
+      "event": "initial_appearance",
+      "confidence": 0.6516935229301453,
+      "bbox": [
+        685.9718017578125,
+        247.19842529296875,
+        729.5777587890625,
+        306.35382080078125
+      ]
+    },
+    {
+      "player_id": 109,
+      "frame": 93,
+      "timestamp": 3.72,
+      "event": "initial_appearance",
+      "confidence": 0.6271991729736328,
+      "bbox": [
+        607.98974609375,
+        265.5401611328125,
+        650.651123046875,
+        337.4471435546875
+      ]
+    },
+    {
+      "player_id": 111,
+      "frame": 96,
+      "timestamp": 3.84,
+      "event": "reenter_frame",
+      "confidence": 0.8727434277534485,
+      "bbox": [
+        1241.457275390625,
+        211.34005737304688,
+        1275.471923828125,
+        271.484130859375
+      ]
+    },
+    {
+      "player_id": 123,
+      "frame": 102,
+      "timestamp": 4.08,
+      "event": "reenter_frame",
+      "confidence": 0.8514112234115601,
+      "bbox": [
+        1240.77001953125,
+        275.28985595703125,
+        1275.37744140625,
+        333.4766845703125
+      ]
+    },
+    {
+      "player_id": 127,
+      "frame": 107,
+      "timestamp": 4.28,
+      "event": "reenter_frame",
+      "confidence": 0.8156485557556152,
+      "bbox": [
+        1239.839599609375,
+        207.93386840820312,
+        1274.615966796875,
+        273.4988708496094
+      ]
+    },
+    {
+      "player_id": 133,
+      "frame": 112,
+      "timestamp": 4.48,
+      "event": "initial_appearance",
+      "confidence": 0.5311666131019592,
+      "bbox": [
+        4.7646636962890625,
+        499.9205017089844,
+        69.14588928222656,
+        584.2315673828125
+      ]
+    },
+    {
+      "player_id": 140,
+      "frame": 115,
+      "timestamp": 4.6,
+      "event": "initial_appearance",
+      "confidence": 0.843228816986084,
+      "bbox": [
+        689.0198974609375,
+        338.5155029296875,
+        740.0233154296875,
+        408.79150390625
+      ]
+    },
+    {
+      "player_id": 141,
+      "frame": 117,
+      "timestamp": 4.68,
+      "event": "initial_appearance",
+      "confidence": 0.6460158824920654,
+      "bbox": [
+        816.0172119140625,
+        335.22784423828125,
+        854.9791259765625,
+        389.27423095703125
+      ]
+    },
+    {
+      "player_id": 151,
+      "frame": 123,
+      "timestamp": 4.92,
+      "event": "initial_appearance",
+      "confidence": 0.5194777846336365,
+      "bbox": [
+        350.233642578125,
+        253.65170288085938,
+        380.9102783203125,
+        333.9585876464844
+      ]
+    },
+    {
+      "player_id": 150,
+      "frame": 124,
+      "timestamp": 4.96,
+      "event": "reenter_frame",
+      "confidence": 0.9031022787094116,
+      "bbox": [
+        1236.511962890625,
+        507.4906921386719,
+        1274.732666015625,
+        609.08251953125
+      ]
+    },
+    {
+      "player_id": 155,
+      "frame": 130,
+      "timestamp": 5.2,
+      "event": "initial_appearance",
+      "confidence": 0.7783225774765015,
+      "bbox": [
+        649.933349609375,
+        310.0282287597656,
+        678.0849609375,
+        362.9310607910156
+      ]
+    },
+    {
+      "player_id": 164,
+      "frame": 136,
+      "timestamp": 5.44,
+      "event": "initial_appearance",
+      "confidence": 0.7641533613204956,
+      "bbox": [
+        672.8515625,
+        303.7913818359375,
+        698.076171875,
+        356.98748779296875
+      ]
+    },
+    {
+      "player_id": 163,
+      "frame": 138,
+      "timestamp": 5.52,
+      "event": "reenter_frame",
+      "confidence": 0.9099230766296387,
+      "bbox": [
+        1242.0537109375,
+        266.71832275390625,
+        1277.61669921875,
+        355.87274169921875
+      ]
+    },
+    {
+      "player_id": 150,
+      "frame": 141,
+      "timestamp": 5.64,
+      "event": "reenter_frame",
+      "confidence": 0.9032241702079773,
+      "bbox": [
+        1236.9854736328125,
+        492.2525329589844,
+        1278.3778076171875,
+        603.2203369140625
+      ]
+    },
+    {
+      "player_id": 174,
+      "frame": 144,
+      "timestamp": 5.76,
+      "event": "initial_appearance",
+      "confidence": 0.8568971753120422,
+      "bbox": [
+        634.4374389648438,
+        297.7508544921875,
+        659.1962280273438,
+        343.85418701171875
+      ]
+    },
+    {
+      "player_id": 150,
+      "frame": 146,
+      "timestamp": 5.84,
+      "event": "reenter_frame",
+      "confidence": 0.9045620560646057,
+      "bbox": [
+        1239.5263671875,
+        491.76190185546875,
+        1279.5712890625,
+        605.3493041992188
+      ]
+    },
+    {
+      "player_id": 218,
+      "frame": 193,
+      "timestamp": 7.72,
+      "event": "initial_appearance",
+      "confidence": 0.6042073369026184,
+      "bbox": [
+        1072.848876953125,
+        270.24334716796875,
+        1124.064697265625,
+        342.58392333984375
+      ]
+    },
+    {
+      "player_id": 222,
+      "frame": 195,
+      "timestamp": 7.8,
+      "event": "initial_appearance",
+      "confidence": 0.7887416481971741,
+      "bbox": [
+        835.1046142578125,
+        222.72195434570312,
+        861.796142578125,
+        275.7017822265625
+      ]
+    },
+    {
+      "player_id": 235,
+      "frame": 200,
+      "timestamp": 8.0,
+      "event": "initial_appearance",
+      "confidence": 0.8878487348556519,
+      "bbox": [
+        1225.78955078125,
+        393.15411376953125,
+        1275.0771484375,
+        500.99969482421875
+      ]
+    },
+    {
+      "player_id": 236,
+      "frame": 200,
+      "timestamp": 8.0,
+      "event": "initial_appearance",
+      "confidence": 0.7341914176940918,
+      "bbox": [
+        1019.11376953125,
+        266.67083740234375,
+        1050.275634765625,
+        318.08245849609375
+      ]
+    },
+    {
+      "player_id": 275,
+      "frame": 224,
+      "timestamp": 8.96,
+      "event": "initial_appearance",
+      "confidence": 0.8725273609161377,
+      "bbox": [
+        1239.077392578125,
+        145.52206420898438,
+        1276.982666015625,
+        219.44757080078125
+      ]
+    },
+    {
+      "player_id": 277,
+      "frame": 225,
+      "timestamp": 9.0,
+      "event": "initial_appearance",
+      "confidence": 0.816169261932373,
+      "bbox": [
+        863.6968383789062,
+        407.1627197265625,
+        878.4668579101562,
+        420.2137451171875
+      ]
+    },
+    {
+      "player_id": 282,
+      "frame": 230,
+      "timestamp": 9.2,
+      "event": "initial_appearance",
+      "confidence": 0.663877010345459,
+      "bbox": [
+        1189.98974609375,
+        146.37579345703125,
+        1220.65087890625,
+        222.33172607421875
+      ]
+    },
+    {
+      "player_id": 283,
+      "frame": 230,
+      "timestamp": 9.2,
+      "event": "initial_appearance",
+      "confidence": 0.6571708917617798,
+      "bbox": [
+        515.9222412109375,
+        215.44705200195312,
+        551.7064208984375,
+        292.73492431640625
+      ]
+    },
+    {
+      "player_id": 291,
+      "frame": 236,
+      "timestamp": 9.44,
+      "event": "initial_appearance",
+      "confidence": 0.5208780765533447,
+      "bbox": [
+        484.79876708984375,
+        240.60926818847656,
+        514.8545532226562,
+        296.434326171875
+      ]
+    },
+    {
+      "player_id": 295,
+      "frame": 239,
+      "timestamp": 9.56,
+      "event": "initial_appearance",
+      "confidence": 0.7212934494018555,
+      "bbox": [
+        500.00152587890625,
+        249.48509216308594,
+        525.6721801757812,
+        300.736572265625
+      ]
+    },
+    {
+      "player_id": 297,
+      "frame": 240,
+      "timestamp": 9.6,
+      "event": "initial_appearance",
+      "confidence": 0.7451145052909851,
+      "bbox": [
+        1119.3743896484375,
+        164.56103515625,
+        1170.2464599609375,
+        235.732177734375
+      ]
+    },
+    {
+      "player_id": 298,
+      "frame": 240,
+      "timestamp": 9.6,
+      "event": "initial_appearance",
+      "confidence": 0.8327517509460449,
+      "bbox": [
+        766.8685302734375,
+        405.7587890625,
+        781.2242431640625,
+        418.798828125
+      ]
+    },
+    {
+      "player_id": 300,
+      "frame": 248,
+      "timestamp": 9.92,
+      "event": "initial_appearance",
+      "confidence": 0.7350050210952759,
+      "bbox": [
+        486.188232421875,
+        222.55838012695312,
+        514.6365966796875,
+        274.1706848144531
+      ]
+    },
+    {
+      "player_id": 307,
+      "frame": 254,
+      "timestamp": 10.16,
+      "event": "initial_appearance",
+      "confidence": 0.7557160258293152,
+      "bbox": [
+        494.224365234375,
+        258.81976318359375,
+        514.1749267578125,
+        307.33978271484375
+      ]
+    },
+    {
+      "player_id": 314,
+      "frame": 259,
+      "timestamp": 10.36,
+      "event": "initial_appearance",
+      "confidence": 0.7997841238975525,
+      "bbox": [
+        1034.107421875,
+        193.73171997070312,
+        1070.18359375,
+        265.8910827636719
+      ]
+    },
+    {
+      "player_id": 315,
+      "frame": 259,
+      "timestamp": 10.36,
+      "event": "initial_appearance",
+      "confidence": 0.5549008250236511,
+      "bbox": [
+        730.27880859375,
+        309.10516357421875,
+        774.115966796875,
+        373.71112060546875
+      ]
+    },
+    {
+      "player_id": 322,
+      "frame": 269,
+      "timestamp": 10.76,
+      "event": "initial_appearance",
+      "confidence": 0.7750495672225952,
+      "bbox": [
+        711.0326538085938,
+        144.88442993164062,
+        723.4545288085938,
+        164.79885864257812
+      ]
+    },
+    {
+      "player_id": 334,
+      "frame": 275,
+      "timestamp": 11.0,
+      "event": "initial_appearance",
+      "confidence": 0.7118340134620667,
+      "bbox": [
+        623.22314453125,
+        388.94232177734375,
+        636.162841796875,
+        403.99359130859375
+      ]
+    },
+    {
+      "player_id": 335,
+      "frame": 279,
+      "timestamp": 11.16,
+      "event": "reenter_frame",
+      "confidence": 0.9016029834747314,
+      "bbox": [
+        3.6914215087890625,
+        309.3138732910156,
+        43.165771484375,
+        406.4743347167969
+      ]
+    },
+    {
+      "player_id": 340,
+      "frame": 281,
+      "timestamp": 11.24,
+      "event": "initial_appearance",
+      "confidence": 0.5579614639282227,
+      "bbox": [
+        578.452880859375,
+        258.19610595703125,
+        621.037353515625,
+        333.3133544921875
+      ]
+    },
+    {
+      "player_id": 342,
+      "frame": 282,
+      "timestamp": 11.28,
+      "event": "initial_appearance",
+      "confidence": 0.8253269791603088,
+      "bbox": [
+        683.6302490234375,
+        305.00390625,
+        751.5760498046875,
+        381.025146484375
+      ]
+    },
+    {
+      "player_id": 341,
+      "frame": 285,
+      "timestamp": 11.4,
+      "event": "reenter_frame",
+      "confidence": 0.9387288689613342,
+      "bbox": [
+        0.0,
+        383.92333984375,
+        48.71664047241211,
+        495.0128173828125
+      ]
+    },
+    {
+      "player_id": 348,
+      "frame": 287,
+      "timestamp": 11.48,
+      "event": "initial_appearance",
+      "confidence": 0.8673653602600098,
+      "bbox": [
+        425.7441101074219,
+        258.4786682128906,
+        454.7633972167969,
+        304.7311706542969
+      ]
+    },
+    {
+      "player_id": 351,
+      "frame": 289,
+      "timestamp": 11.56,
+      "event": "initial_appearance",
+      "confidence": 0.7475995421409607,
+      "bbox": [
+        684.2652587890625,
+        335.90972900390625,
+        711.8463134765625,
+        396.98089599609375
+      ]
+    },
+    {
+      "player_id": 354,
+      "frame": 295,
+      "timestamp": 11.8,
+      "event": "initial_appearance",
+      "confidence": 0.8056985139846802,
+      "bbox": [
+        147.0377197265625,
+        343.7440185546875,
+        190.98016357421875,
+        408.9783935546875
+      ]
+    },
+    {
+      "player_id": 356,
+      "frame": 296,
+      "timestamp": 11.84,
+      "event": "initial_appearance",
+      "confidence": 0.6051889657974243,
+      "bbox": [
+        646.5819702148438,
+        305.5838317871094,
+        688.8775024414062,
+        344.3190612792969
+      ]
+    },
+    {
+      "player_id": 358,
+      "frame": 297,
+      "timestamp": 11.88,
+      "event": "initial_appearance",
+      "confidence": 0.5447325706481934,
+      "bbox": [
+        659.7271728515625,
+        300.8504333496094,
+        695.2735595703125,
+        355.2508239746094
+      ]
+    },
+    {
+      "player_id": 359,
+      "frame": 298,
+      "timestamp": 11.92,
+      "event": "initial_appearance",
+      "confidence": 0.5781616568565369,
+      "bbox": [
+        971.5405883789062,
+        230.64154052734375,
+        1013.2726440429688,
+        309.726318359375
+      ]
+    },
+    {
+      "player_id": 367,
+      "frame": 303,
+      "timestamp": 12.12,
+      "event": "initial_appearance",
+      "confidence": 0.6260335445404053,
+      "bbox": [
+        994.522705078125,
+        232.31472778320312,
+        1033.689453125,
+        297.9652404785156
+      ]
+    },
+    {
+      "player_id": 366,
+      "frame": 305,
+      "timestamp": 12.2,
+      "event": "reenter_frame",
+      "confidence": 0.9197402000427246,
+      "bbox": [
+        0.5113677978515625,
+        337.16229248046875,
+        43.99718475341797,
+        436.62567138671875
+      ]
+    },
+    {
+      "player_id": 370,
+      "frame": 306,
+      "timestamp": 12.24,
+      "event": "initial_appearance",
+      "confidence": 0.6365997791290283,
+      "bbox": [
+        623.4000244140625,
+        286.3941650390625,
+        653.1968994140625,
+        350.48309326171875
+      ]
+    },
+    {
+      "player_id": 371,
+      "frame": 306,
+      "timestamp": 12.24,
+      "event": "initial_appearance",
+      "confidence": 0.8930045366287231,
+      "bbox": [
+        542.9920654296875,
+        295.33221435546875,
+        584.3367919921875,
+        387.26507568359375
+      ]
+    },
+    {
+      "player_id": 368,
+      "frame": 307,
+      "timestamp": 12.28,
+      "event": "reenter_frame",
+      "confidence": 0.9212835431098938,
+      "bbox": [
+        5.959625244140625,
+        287.83941650390625,
+        42.08018493652344,
+        381.7310791015625
+      ]
+    },
+    {
+      "player_id": 373,
+      "frame": 307,
+      "timestamp": 12.28,
+      "event": "initial_appearance",
+      "confidence": 0.7825238108634949,
+      "bbox": [
+        215.13687133789062,
+        447.12152099609375,
+        254.56338500976562,
+        503.78521728515625
+      ]
+    },
+    {
+      "player_id": 378,
+      "frame": 314,
+      "timestamp": 12.56,
+      "event": "initial_appearance",
+      "confidence": 0.7708814144134521,
+      "bbox": [
+        673.3331909179688,
+        296.24359130859375,
+        702.8392944335938,
+        361.20501708984375
+      ]
+    },
+    {
+      "player_id": 381,
+      "frame": 321,
+      "timestamp": 12.84,
+      "event": "initial_appearance",
+      "confidence": 0.8208552002906799,
+      "bbox": [
+        354.86737060546875,
+        300.00531005859375,
+        392.54498291015625,
+        365.55084228515625
+      ]
+    },
+    {
+      "player_id": 383,
+      "frame": 325,
+      "timestamp": 13.0,
+      "event": "initial_appearance",
+      "confidence": 0.6193534731864929,
+      "bbox": [
+        460.419921875,
+        280.8507080078125,
+        494.310791015625,
+        352.705322265625
+      ]
+    },
+    {
+      "player_id": 389,
+      "frame": 332,
+      "timestamp": 13.28,
+      "event": "initial_appearance",
+      "confidence": 0.6465535163879395,
+      "bbox": [
+        368.93194580078125,
+        258.68817138671875,
+        394.67938232421875,
+        331.99481201171875
+      ]
+    },
+    {
+      "player_id": 390,
+      "frame": 332,
+      "timestamp": 13.28,
+      "event": "initial_appearance",
+      "confidence": 0.5682702660560608,
+      "bbox": [
+        483.20758056640625,
+        323.6840515136719,
+        518.080322265625,
+        372.1214904785156
+      ]
+    },
+    {
+      "player_id": 395,
+      "frame": 341,
+      "timestamp": 13.64,
+      "event": "initial_appearance",
+      "confidence": 0.6248254179954529,
+      "bbox": [
+        885.9327392578125,
+        285.2703857421875,
+        914.682373046875,
+        327.811279296875
+      ]
+    },
+    {
+      "player_id": 404,
+      "frame": 346,
+      "timestamp": 13.84,
+      "event": "initial_appearance",
+      "confidence": 0.8424167037010193,
+      "bbox": [
+        136.21786499023438,
+        302.7741394042969,
+        170.49716186523438,
+        354.1328430175781
+      ]
+    },
+    {
+      "player_id": 410,
+      "frame": 351,
+      "timestamp": 14.04,
+      "event": "initial_appearance",
+      "confidence": 0.7676939368247986,
+      "bbox": [
+        114.93414306640625,
+        397.107177734375,
+        146.12448120117188,
+        480.34326171875
+      ]
+    },
+    {
+      "player_id": 412,
+      "frame": 353,
+      "timestamp": 14.12,
+      "event": "initial_appearance",
+      "confidence": 0.8295177817344666,
+      "bbox": [
+        0.21146774291992188,
+        212.36875915527344,
+        42.52254867553711,
+        308.711181640625
+      ]
+    },
+    {
+      "player_id": 412,
+      "frame": 363,
+      "timestamp": 14.52,
+      "event": "reenter_frame",
+      "confidence": 0.8463455438613892,
+      "bbox": [
+        0.4650230407714844,
+        237.7257080078125,
+        45.24722671508789,
+        316.327880859375
+      ]
+    },
+    {
+      "player_id": 422,
+      "frame": 368,
+      "timestamp": 14.72,
+      "event": "initial_appearance",
+      "confidence": 0.653224766254425,
+      "bbox": [
+        117.98147583007812,
+        292.49285888671875,
+        145.30117797851562,
+        344.801513671875
+      ]
+    }
+  ],
+  "player_summary": {
+    "player_1": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9246804118156433
+    },
+    "player_2": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        4.36
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 4.36,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9145002663135529
+    },
+    "player_3": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9186922311782837
+    },
+    "player_4": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        4.16
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 4.16,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9221349060535431
+    },
+    "player_5": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        3.04
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 3.04,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9182308316230774
+    },
+    "player_6": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        9.12
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 9.12,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9048581421375275
+    },
+    "player_7": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        6.96
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 6.96,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.903442770242691
+    },
+    "player_8": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9080349206924438
+    },
+    "player_9": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        4.16
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 4.16,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9043227434158325
+    },
+    "player_10": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9002048969268799
+    },
+    "player_11": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        0.44
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.44,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8823942542076111
+    },
+    "player_12": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        0.04
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.04,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8893631994724274
+    },
+    "player_13": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8738321661949158
+    },
+    "player_14": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        5.12
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 5.12,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8452789783477783
+    },
+    "player_15": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8592705130577087
+    },
+    "player_16": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8431307673454285
+    },
+    "player_17": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        4.6
+      ],
+      "entry_times": [
+        0.0
+      ],
+      "total_time_in_frame": 4.6,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8885437250137329
+    },
+    "player_24": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.4
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7438705563545227
+    },
+    "player_30": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.72
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7498092651367188
+    },
+    "player_34": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        7.64
+      ],
+      "entry_times": [
+        0.88
+      ],
+      "total_time_in_frame": 6.76,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7925647497177124
+    },
+    "player_35": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        0.92
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5032052993774414
+    },
+    "player_42": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        1.2
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.650516927242279
+    },
+    "player_48": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        8.44
+      ],
+      "entry_times": [
+        1.4
+      ],
+      "total_time_in_frame": 7.039999999999999,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8525929152965546
+    },
+    "player_49": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        1.48
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8682116270065308
+    },
+    "player_50": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        1.72
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9014680981636047
+    },
+    "player_52": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        1.56
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8444881439208984
+    },
+    "player_59": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        1.8
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.856515109539032
+    },
+    "player_62": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        1.88
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6766362190246582
+    },
+    "player_65": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        8.44
+      ],
+      "entry_times": [
+        1.96
+      ],
+      "total_time_in_frame": 6.4799999999999995,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.89534130692482
+    },
+    "player_67": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        5.04
+      ],
+      "entry_times": [
+        2.08
+      ],
+      "total_time_in_frame": 2.96,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7498790323734283
+    },
+    "player_74": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        2.6
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.731561005115509
+    },
+    "player_77": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        2.64
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7059917449951172
+    },
+    "player_92": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        3.2
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9026467800140381
+    },
+    "player_102": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        3.56
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8713886737823486
+    },
+    "player_107": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        8.36
+      ],
+      "entry_times": [
+        3.68
+      ],
+      "total_time_in_frame": 4.68,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7751353085041046
+    },
+    "player_109": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        3.72
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6271991729736328
+    },
+    "player_111": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        3.84
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8727434277534485
+    },
+    "player_123": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        8.72
+      ],
+      "entry_times": [
+        4.08
+      ],
+      "total_time_in_frame": 4.640000000000001,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8704850673675537
+    },
+    "player_127": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        4.28
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8156485557556152
+    },
+    "player_133": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        4.48
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5311666131019592
+    },
+    "player_140": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        4.6
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.843228816986084
+    },
+    "player_141": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        4.68
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6460158824920654
+    },
+    "player_150": {
+      "exit_count": 3,
+      "entry_count": 3,
+      "exit_times": [
+        5.16,
+        5.76,
+        5.96
+      ],
+      "entry_times": [
+        4.96,
+        5.64,
+        5.84
+      ],
+      "total_time_in_frame": 0.4400000000000004,
+      "total_time_out_frame": 0.5599999999999996,
+      "avg_confidence": 0.8798147737979889
+    },
+    "player_151": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        4.92
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5194777846336365
+    },
+    "player_155": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        5.2
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7783225774765015
+    },
+    "player_159": {
+      "exit_count": 0,
+      "entry_count": 0,
+      "exit_times": [],
+      "entry_times": [],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.0
+    },
+    "player_163": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        5.52
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9099230766296387
+    },
+    "player_164": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        5.44
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7641533613204956
+    },
+    "player_174": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        5.76
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8568971753120422
+    },
+    "player_198": {
+      "exit_count": 0,
+      "entry_count": 0,
+      "exit_times": [],
+      "entry_times": [],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.0
+    },
+    "player_218": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        7.72
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6042073369026184
+    },
+    "player_222": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        7.8
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7887416481971741
+    },
+    "player_235": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        8.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8878487348556519
+    },
+    "player_236": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        8.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7341914176940918
+    },
+    "player_275": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        8.96
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8725273609161377
+    },
+    "player_277": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.816169261932373
+    },
+    "player_282": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.2
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.663877010345459
+    },
+    "player_283": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.2
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6571708917617798
+    },
+    "player_291": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.44
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5208780765533447
+    },
+    "player_295": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.56
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7212934494018555
+    },
+    "player_297": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.6
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7451145052909851
+    },
+    "player_298": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.6
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8327517509460449
+    },
+    "player_300": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        9.92
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7350050210952759
+    },
+    "player_307": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        10.16
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7557160258293152
+    },
+    "player_314": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        10.36
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7997841238975525
+    },
+    "player_315": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        10.36
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5549008250236511
+    },
+    "player_322": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        10.76
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7750495672225952
+    },
+    "player_334": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7118340134620667
+    },
+    "player_335": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.16
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9016029834747314
+    },
+    "player_340": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.24
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5579614639282227
+    },
+    "player_341": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.4
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9387288689613342
+    },
+    "player_342": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.28
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8253269791603088
+    },
+    "player_348": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.48
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8673653602600098
+    },
+    "player_351": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.56
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7475995421409607
+    },
+    "player_354": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.8
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8056985139846802
+    },
+    "player_356": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.84
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6051889657974243
+    },
+    "player_358": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.88
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5447325706481934
+    },
+    "player_359": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        11.92
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5781616568565369
+    },
+    "player_366": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.2
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9197402000427246
+    },
+    "player_367": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.12
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6260335445404053
+    },
+    "player_368": {
+      "exit_count": 1,
+      "entry_count": 1,
+      "exit_times": [
+        13.16
+      ],
+      "entry_times": [
+        12.28
+      ],
+      "total_time_in_frame": 0.8800000000000008,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.9133321940898895
+    },
+    "player_370": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.24
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6365997791290283
+    },
+    "player_371": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.24
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8930045366287231
+    },
+    "player_373": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.28
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7825238108634949
+    },
+    "player_378": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.56
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7708814144134521
+    },
+    "player_381": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        12.84
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8208552002906799
+    },
+    "player_383": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        13.0
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6193534731864929
+    },
+    "player_389": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        13.28
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6465535163879395
+    },
+    "player_390": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        13.28
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.5682702660560608
+    },
+    "player_395": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        13.64
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.6248254179954529
+    },
+    "player_404": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        13.84
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.8424167037010193
+    },
+    "player_410": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        14.04
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.7676939368247986
+    },
+    "player_412": {
+      "exit_count": 1,
+      "entry_count": 2,
+      "exit_times": [
+        14.24
+      ],
+      "entry_times": [
+        14.12,
+        14.52
+      ],
+      "total_time_in_frame": 0.120000000000001,
+      "total_time_out_frame": 0.27999999999999936,
+      "avg_confidence": 0.8020017147064209
+    },
+    "player_422": {
+      "exit_count": 0,
+      "entry_count": 1,
+      "exit_times": [],
+      "entry_times": [
+        14.72
+      ],
+      "total_time_in_frame": 0.0,
+      "total_time_out_frame": 0.0,
+      "avg_confidence": 0.653224766254425
+    }
+  },
+  "analytics": {
+    "most_active_period": {
+      "start_time": 0.0,
+      "end_time": 14.72
+    },
+    "average_events_per_second": 7.880434782608695,
+    "player_activity_distribution": {
+      "player_1": 1,
+      "player_2": 2,
+      "player_3": 1,
+      "player_4": 2,
+      "player_5": 2,
+      "player_6": 2,
+      "player_7": 2,
+      "player_8": 1,
+      "player_9": 2,
+      "player_10": 1,
+      "player_11": 2,
+      "player_12": 2,
+      "player_13": 1,
+      "player_14": 2,
+      "player_15": 1,
+      "player_16": 1,
+      "player_17": 2,
+      "player_24": 1,
+      "player_30": 1,
+      "player_34": 2,
+      "player_35": 1,
+      "player_42": 1,
+      "player_48": 2,
+      "player_49": 1,
+      "player_50": 1,
+      "player_52": 1,
+      "player_59": 1,
+      "player_62": 1,
+      "player_65": 2,
+      "player_67": 2,
+      "player_74": 1,
+      "player_77": 1,
+      "player_92": 1,
+      "player_102": 1,
+      "player_107": 2,
+      "player_109": 1,
+      "player_111": 1,
+      "player_123": 2,
+      "player_127": 1,
+      "player_133": 1,
+      "player_140": 1,
+      "player_141": 1,
+      "player_150": 6,
+      "player_151": 1,
+      "player_155": 1,
+      "player_159": 0,
+      "player_163": 1,
+      "player_164": 1,
+      "player_174": 1,
+      "player_198": 0,
+      "player_218": 1,
+      "player_222": 1,
+      "player_235": 1,
+      "player_236": 1,
+      "player_275": 1,
+      "player_277": 1,
+      "player_282": 1,
+      "player_283": 1,
+      "player_291": 1,
+      "player_295": 1,
+      "player_297": 1,
+      "player_298": 1,
+      "player_300": 1,
+      "player_307": 1,
+      "player_314": 1,
+      "player_315": 1,
+      "player_322": 1,
+      "player_334": 1,
+      "player_335": 1,
+      "player_340": 1,
+      "player_341": 1,
+      "player_342": 1,
+      "player_348": 1,
+      "player_351": 1,
+      "player_354": 1,
+      "player_356": 1,
+      "player_358": 1,
+      "player_359": 1,
+      "player_366": 1,
+      "player_367": 1,
+      "player_368": 2,
+      "player_370": 1,
+      "player_371": 1,
+      "player_373": 1,
+      "player_378": 1,
+      "player_381": 1,
+      "player_383": 1,
+      "player_389": 1,
+      "player_390": 1,
+      "player_395": 1,
+      "player_404": 1,
+      "player_410": 1,
+      "player_412": 3,
+      "player_422": 1
+    }
+  }
+}
